@@ -1,3 +1,9 @@
+// Integrantes
+// João Lucas de Souza Paz
+// Alan Mendes Rocha
+// Wedson Gabriel da Silva
+// Paulo Marcelo Cordeiro de Jesus 
+
 import java.util.List;
 
 public interface GerenciadorContatos {

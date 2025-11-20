@@ -27,6 +27,7 @@ AgendaEletronica/
    ```
    java -cp src AgendaApplication
    ```
+4. Ou use a extenção do Java
 
 ## O que o programa faz
 - Permite adicionar, buscar e remover contatos.
@@ -38,11 +39,11 @@ AgendaEletronica/
 
 Para mostrar claramente a contribuição de cada integrante no histórico:
 
-1. **João Lucas** — Commit inicial: criar repositório e adicionar estrutura base (README.md, .gitignore, pasta `src/`).
-2. **Allan** — Commit: adicionar `Contato.java` e exceções (`ContatoExistenteException.java`, `ContatoNaoEncontradoException.java`).
-3. **Wedson** — Commit: adicionar `GerenciadorContatos.java` e `AgendaManager.java`.
-4. **Paulo** — Commit: adicionar `AgendaApplication.java` (menu e interação).
-5. (Opcional) **João Lucas** — Commit final: revisão, ajustes e mensagens finais no README indicando testes e instruções.
+1. **João Lucas de Souza Paz** — Commit inicial: criar repositório e adicionar estrutura base (README.md, .gitignore, pasta `src/`).
+2. **Alan Mendes Rocha** — Commit: adicionar `Contato.java` e exceções (`ContatoExistenteException.java`, `ContatoNaoEncontradoException.java`).
+3. **Wedson Gabriel da Silva** — Commit: adicionar `GerenciadorContatos.java` e `AgendaManager.java`.
+4. **Paulo Marcelo Cordeiro de Jesus** — Commit: adicionar `AgendaApplication.java` (menu e interação).
+5. **João Lucas de Souza Paz** — Commit final: revisão, ajustes e mensagens finais no README indicando testes e instruções.
 
 **Observação:** cada integrante deve configurar seu `user.name` e `user.email` no Git antes de commitar:
 ```

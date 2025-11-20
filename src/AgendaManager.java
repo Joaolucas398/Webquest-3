@@ -1,4 +1,10 @@
- import java.io.*;
+// Integrantes
+// João Lucas de Souza Paz
+// Alan Mendes Rocha
+// Wedson Gabriel da Silva
+// Paulo Marcelo Cordeiro de Jesus 
+
+import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;

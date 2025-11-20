@@ -1,5 +1,11 @@
 // AgendaApplication.java
 // Classe principal com menu interativo
+// Integrantes
+// João Lucas de Souza Paz
+// Alan Mendes Rocha
+// Wedson Gabriel da Silva
+// Paulo Marcelo Cordeiro de Jesus 
+
 import java.io.IOException;
 import java.util.List;
 import java.util.Scanner;

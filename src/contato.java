@@ -1,3 +1,9 @@
+// Integrantes
+// João Lucas de Souza Paz
+// Alan Mendes Rocha
+// Wedson Gabriel da Silva
+// Paulo Marcelo Cordeiro de Jesus 
+
 public class Contato {
     private String nome;
     private String telefone;
